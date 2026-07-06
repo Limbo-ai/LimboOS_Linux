@@ -1,6 +1,5 @@
 # LimboOS_Linux
-Limbo OS is a distribution based on Arch that stands for freedom and open source. 
-# LimboOS_Linux
+
 
 LimboOS is a fully open-source operating system based on Arch Linux. It is my personal passion project, born from sleepless nights, gallons of Monster Energy, and the sheer will to build a system exactly the way I want it.
 
