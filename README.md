@@ -21,3 +21,4 @@ Why? Because I could. Because I wanted my system to look and function exactly ho
 
 ---
 [user@LimboOS ~]$ echo "Powered by caffeine and pure intent."
+![Banner](1777824773068.png)
